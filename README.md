@@ -49,3 +49,8 @@ Despite learning the theory and syntax, I still encountered some errors during t
 - Forgetting the commit message or providing unclear messages.
 
 → For errors like these, I usually consulted AI to quickly understand the problem and find a solution. I am also learning Conventional Commits to ensure my messages follow industry best practices.
+
+---
+**Candidate Information**
+* **Full Name:** Le Trung An Nguyen
+* **Role Applied:** Junior Growth Marketing Specialist
