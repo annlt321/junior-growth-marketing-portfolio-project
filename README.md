@@ -1,6 +1,5 @@
 # Portfolio Project - Junior Growth Marketing Specialist
 
-
 ## 1. Installed Tools
 
 During the initial phase of the project, I successfully installed and configured the following tools:
@@ -8,7 +7,6 @@ During the initial phase of the project, I successfully installed and configured
 - **Cursor IDE**: An AI-integrated code editor designed to optimize workflow efficiency.
 - **Claude Code Add-on**: An Anthropic extension that supports coding and data analysis directly within the IDE.
 - **Codex Add-on**: A tool providing intelligent code suggestions.
-
 
 ## 2. Completed Steps
 
@@ -27,7 +25,6 @@ I followed the procedural steps, including:
 ✅ Created and finalized the README.md file to report progress.
 
 ✅ Committed and pushed to GitHub.
-
 
 ## 3. Challenges and Solutions
 
@@ -51,6 +48,9 @@ Despite learning the theory and syntax, I still encountered some errors during t
 → For errors like these, I usually consulted AI to quickly understand the problem and find a solution. I am also learning Conventional Commits to ensure my messages follow industry best practices.
 
 ---
+
 **Candidate Information**
-* **Full Name:** Le Trung An Nguyen
-* **Role Applied:** Junior Growth Marketing Specialist
+
+- **Full Name:** Le Trung An Nguyen
+- **Role Applied:** Junior Growth Marketing Specialist
+
