@@ -97,7 +97,7 @@ This will be a solid, practical foundation for any Growth Marketer looking to op
 3. **Sustainable Content and Real Value:** The selected experts have a LinkedIn development philosophy based on creating strategic, in-depth, and long-lasting content. They prioritize sharing insights, frameworks, and systems thinking over short-term engagement tricks and tips. This ensures the strategy can be sustained and scaled over time.
 
 
-> **Note:** For a detailed of each expert's specific value and their unique contributions to this topic, please refer to [sources.md](./research/sources.md).
+> **Note:** For a detailed analysis of each expert's specific value and their unique contributions to this topic, please refer to [sources.md](./research/sources.md).
 
 
 **Tools Used**
@@ -108,7 +108,7 @@ This will be a solid, practical foundation for any Growth Marketer looking to op
 **Issues**
 - The Scrape tools are limited on the LinkedIn platform. So to ensure timeline, I have to use manual methods for some posts.
 
-- My work with the AI ​​is not yet optimized. Output is sometimes incorrect in format, especially with MCP which sometimes doesn't work well. However, after consulting with the AI ​​and the AI ​​community, everything seems fine. Personally, I will gradually improve this skill.
+- Initial outputs were occasionally incorrectly formatted, especially when using MCP. However, after consulting with AI communities, the output quality has stabilized.
 
 - The selected content is not evenly distributed across platforms. Some experts are active on LinkedIn, some on YouTube, and some post more on their websites. This results in uneven distribution, but the content quality remains consistent.
 
