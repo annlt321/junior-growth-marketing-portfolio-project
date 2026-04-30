@@ -10,6 +10,7 @@ Having managed marketing for high growth SaaS companies like Drift and Privy, Da
 - **Resource Links:**
   - LinkedIn: [https://www.linkedin.com/in/davegerhardt/](https://www.linkedin.com/in/davegerhardt/)
   - YouTube: [https://www.youtube.com/@heydavegerhardt](https://www.youtube.com/@heydavegerhardt)
+  - Other: [https://www.exitfive.com/podcast](https://www.exitfive.com/podcast)
 - **Research Date Range:**
 
 ## 2. Devin Reed
@@ -29,7 +30,6 @@ Devin is the content strategist behind the growth of Gong from 20M to 200M ARR a
 She frequently appears on the Marketing in the Madness podcast and industry events to share research insights such as "How B2B Brands Grow", focusing on the role of brand, consistency, and humanizing B2B on LinkedIn. Standing at the intersection of LinkedIn first party data and academic research on B2B marketing effectiveness, Jennifer is a highly credible resource for developing LinkedIn strategies for B2B SaaS based on data and long term brand building rather than just scattered tips. [4](https://www.youtube.com/watch?v=1YzQLyKWdbM)
 - **Resource Links:**
   - LinkedIn: [https://www.linkedin.com/in/jennifer-shaw-sweet-7134a56/](https://www.linkedin.com/in/jennifer-shaw-sweet-7134a56/)
-  - YouTube: 
 - **Research Date Range:**
 
 ## 4. Michelle J Raymond
@@ -55,22 +55,20 @@ As a leading authority in SEO and content led growth [6](https://saasnorth.com/n
 ## 6. Nick Bennett
 
 - **Current Role:** B2B Marketing Operator at NB Marketing
-- **Brief Annotation:** 
-He has assisted over 35 B2B brands in transitioning from transactional tactics to connection driven growth, involving the development of GTM strategies, communities, webinars, and demand generation programs. He is also a well known figure on LinkedIn, podcasts, and at industry events[9](https://www.stackforce.co/talent/nick-bennett-co-founder-692d9889f6e69a7d1aba526f). Nick frequently shares extensive insights on utilizing LinkedIn, webinars, communities, and influencer partnerships to generate demand and pipeline. Positioned at the intersection of brand, demand, and field marketing, he uses LinkedIn as a primary GTM channel, making him a highly practical reference for organic LinkedIn strategies which integrate pipeline, events, and communities for B2B SaaS[10](https://www.linkedin.com/in/nickbennett1).
+- **Brief Annotation:**  
+He has assisted over 35 B2B brands in transitioning from transactional tactics to connection driven growth, involving the development of GTM strategies, communities, webinars, and demand generation programs. He is also a well known figure on LinkedIn, podcasts, and at industry events [9](https://www.stackforce.co/talent/nick-bennett-co-founder-692d9889f6e69a7d1aba526f). Nick frequently shares extensive insights on utilizing LinkedIn, webinars, communities, and influencer partnerships to generate demand and pipeline. Positioned at the intersection of brand, demand, and field marketing, he uses LinkedIn as a primary GTM channel, making him a highly practical reference for organic LinkedIn strategies which integrate pipeline, events, and communities for B2B SaaS [10](https://www.linkedin.com/in/nickbennett1).
 - **Resource Links:**
   - LinkedIn: [https://www.linkedin.com/in/nickbennett1/](https://www.linkedin.com/in/nickbennett1/)
-  - YouTube: 
 - **Research Date Range:**
 
 ## 7. Richard van der Blom
 
 - **Current Role:** LinkedIn Strategist
 - **Brief Annotation:** 
-He is a globally recognized LinkedIn Strategist who is renowned for the annual LinkedIn Algorithm Insights report[11](https://recruitmentcoach.com/podcast/how-to-use-linkedins-2025-algorithm-to-attract-more-clients-and-candidates-with-richard-van-der-blom/).He frequently appears on podcasts and webinars to explain LinkedIn algorithm updates and clearly share brutal realities such as the approximate 50 percent decrease in organic reach and the specific types of content currently being prioritized[12](https://www.youtube.com/watch?v=nmPGcQvDnEg). Because he possesses extensive datasets and conducts deep analysis of the LinkedIn algorithm, Richard serves as an exceptionally valuable reference for optimizing organic content strategies involving format, frequency, and engagement style for B2B SaaS on LinkedIn based on data rather than mere intuition.
+He is a globally recognized LinkedIn Strategist who is renowned for the annual LinkedIn Algorithm Insights report[11](https://recruitmentcoach.com/podcast/how-to-use-linkedins-2025-algorithm-to-attract-more-clients-and-candidates-with-richard-van-der-blom/). He frequently appears on podcasts and webinars to explain LinkedIn algorithm updates and clearly share brutal realities such as the approximate 50 percent decrease in organic reach and the specific types of content currently being prioritized[12](https://www.youtube.com/watch?v=nmPGcQvDnEg). Because he possesses extensive datasets and conducts deep analysis of the LinkedIn algorithm, Richard serves as an exceptionally valuable reference for optimizing organic content strategies involving format, frequency, and engagement style for B2B SaaS on LinkedIn based on data rather than mere intuition.
 - **Resource Links:**
   - LinkedIn: [https://www.linkedin.com/in/richardvanderblom/](https://www.linkedin.com/in/richardvanderblom/)
-  - YouTube: 
-- **Research Date Range:**
+  - YouTube: [https://www.youtube.com/@RichardvanderBlom](https://www.youtube.com/@RichardvanderBlom)
 
 ## 8. Ross Simmonds
 
@@ -79,7 +77,6 @@ He is a globally recognized LinkedIn Strategist who is renowned for the annual L
 Ross frequently emphasizes tactics such as repurposing, strategic reposting, channel selection, and timing to ensure B2B content achieves longevity and reaches the intended audience, rather than simply following a post and forget[13](https://www.linkedin.com/posts/callumconnects_bridging-the-marketing-sales-gap-ross-simmonds-activity-7419938705424982017-gzsm). Due to his deep expertise in distribution, which is a primary challenge for most organic LinkedIn strategies, and his record of implementation for various B2B SaaS firms, Ross is a vital resource for converting LinkedIn content from mere impressions into genuine reach and demand.
 - **Resource Links:**
   - LinkedIn: [https://www.linkedin.com/in/rosssimmonds/](https://www.linkedin.com/in/rosssimmonds/)
-  - YouTube: 
 - **Research Date Range:**
 
 ## 9. Ryan Allis
@@ -89,7 +86,6 @@ Ross frequently emphasizes tactics such as repurposing, strategic reposting, cha
 Ryan Allis currently creates an extensive amount of content to guide SaaS founders in building a durable growth engine, emphasizing unit economics, owned audiences, outbound, content, paid, and omnichannel strategies, in which LinkedIn serves as a primary channel. The article titled The Growth Formula illustrates how he employs digital marketing, inbound, and outbound tactics combined with content to achieve sales growth exceeding 100 percent annually for many companies, including numerous B2B SaaS firms [14](https://www.hive.org/growthformula/). Because he is directly advising and producing Go To Market playbooks for SaaS founders which include the use of LinkedIn and content within the growth flywheel, Ryan serves as a strategic CEO level reference for this topic [15](https://www.linkedin.com/posts/ryanallis_step-by-step-how-id-build-sell-a-100m-activity-7426637703087292416-WxEc).
 - **Resource Links:**
   - LinkedIn: [https://www.linkedin.com/in/ryanallis/](https://www.linkedin.com/in/ryanallis/)
-  - YouTube: 
 - **Research Date Range:**
 
 ## 10. Will Aitken
