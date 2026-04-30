@@ -2,6 +2,8 @@
 
 ## This list features 10 practitioners who share proven methods for organic content and brand growth on LinkedIn. Their strategies are highly practical and can be applied to help a B2B SaaS business grow.
 
+**Research Date Range:** Jan 2024 - Apr 2026
+
 ## 1. Dave Gerhardt
 
 - **Current Role:** Founder at Five Exit (Top community for B2B marketing professionals.)
@@ -11,7 +13,6 @@ Having managed marketing for high growth SaaS companies like Drift and Privy, Da
   - LinkedIn: [https://www.linkedin.com/in/davegerhardt/](https://www.linkedin.com/in/davegerhardt/)
   - YouTube: [https://www.youtube.com/@heydavegerhardt](https://www.youtube.com/@heydavegerhardt)
   - Other: [https://www.exitfive.com/podcast](https://www.exitfive.com/podcast)
-- **Research Date Range:**
 
 ## 2. Devin Reed
 
@@ -21,7 +22,6 @@ Devin is the content strategist behind the growth of Gong from 20M to 200M ARR a
 - **Resource Links:**
   - LinkedIn: [https://www.linkedin.com/in/devinreed/](https://www.linkedin.com/in/devinreed/)
   - YouTube: [https://www.youtube.com/@TheReederCo/featured](https://www.youtube.com/@TheReederCo/featured)
-- **Research Date Range:**
 
 ## 3. Jennifer Shaw-Sweet
 
@@ -30,7 +30,6 @@ Devin is the content strategist behind the growth of Gong from 20M to 200M ARR a
 She frequently appears on the Marketing in the Madness podcast and industry events to share research insights such as "How B2B Brands Grow", focusing on the role of brand, consistency, and humanizing B2B on LinkedIn. Standing at the intersection of LinkedIn first party data and academic research on B2B marketing effectiveness, Jennifer is a highly credible resource for developing LinkedIn strategies for B2B SaaS based on data and long term brand building rather than just scattered tips. [4](https://www.youtube.com/watch?v=1YzQLyKWdbM)
 - **Resource Links:**
   - LinkedIn: [https://www.linkedin.com/in/jennifer-shaw-sweet-7134a56/](https://www.linkedin.com/in/jennifer-shaw-sweet-7134a56/)
-- **Research Date Range:**
 
 ## 4. Michelle J Raymond
 
@@ -40,7 +39,6 @@ Michelle focuses heavily on using company pages and employee advocacy to turn Li
 - **Resource Links:**
   - LinkedIn: [https://www.linkedin.com/in/michellejraymond/](https://www.linkedin.com/in/michellejraymond/)
   - YouTube: [https://www.youtube.com/@MichelleJRaymond](https://www.youtube.com/@MichelleJRaymond)
-- **Research Date Range:**
 
 ## 5. Neil Patel
 
@@ -51,7 +49,6 @@ As a leading authority in SEO and content led growth [6](https://saasnorth.com/n
   - LinkedIn: [https://www.linkedin.com/in/neilkpatel/](https://www.linkedin.com/in/neilkpatel/)
   - YouTube: [https://www.youtube.com/@neilpatel/videos](https://www.youtube.com/@neilpatel/videos)
   - Other: [https://neilpatel.com/blog](https://neilpatel.com/blog)
-- **Research Date Range:**
 
 ## 6. Nick Bennett
 
@@ -60,7 +57,6 @@ As a leading authority in SEO and content led growth [6](https://saasnorth.com/n
 He has assisted over 35 B2B brands in transitioning from transactional tactics to connection driven growth, involving the development of GTM strategies, communities, webinars, and demand generation programs. He is also a well known figure on LinkedIn, podcasts, and at industry events [9](https://www.stackforce.co/talent/nick-bennett-co-founder-692d9889f6e69a7d1aba526f). Nick frequently shares extensive insights on utilizing LinkedIn, webinars, communities, and influencer partnerships to generate demand and pipeline. Positioned at the intersection of brand, demand, and field marketing, he uses LinkedIn as a primary GTM channel, making him a highly practical reference for organic LinkedIn strategies which integrate pipeline, events, and communities for B2B SaaS [10](https://www.linkedin.com/in/nickbennett1).
 - **Resource Links:**
   - LinkedIn: [https://www.linkedin.com/in/nickbennett1/](https://www.linkedin.com/in/nickbennett1/)
-- **Research Date Range:**
 
 ## 7. Richard van der Blom
 
@@ -78,7 +74,6 @@ He is a globally recognized LinkedIn Strategist who is renowned for the annual L
 Ross frequently emphasizes tactics such as repurposing, strategic reposting, channel selection, and timing to ensure B2B content achieves longevity and reaches the intended audience, rather than simply following a post and forget[13](https://www.linkedin.com/posts/callumconnects_bridging-the-marketing-sales-gap-ross-simmonds-activity-7419938705424982017-gzsm). Due to his deep expertise in distribution, which is a primary challenge for most organic LinkedIn strategies, and his record of implementation for various B2B SaaS firms, Ross is a vital resource for converting LinkedIn content from mere impressions into genuine reach and demand.
 - **Resource Links:**
   - LinkedIn: [https://www.linkedin.com/in/rosssimmonds/](https://www.linkedin.com/in/rosssimmonds/)
-- **Research Date Range:**
 
 ## 9. Ryan Allis
 
@@ -87,7 +82,6 @@ Ross frequently emphasizes tactics such as repurposing, strategic reposting, cha
 Ryan Allis currently creates an extensive amount of content to guide SaaS founders in building a durable growth engine, emphasizing unit economics, owned audiences, outbound, content, paid, and omnichannel strategies, in which LinkedIn serves as a primary channel. The article titled The Growth Formula illustrates how he employs digital marketing, inbound, and outbound tactics combined with content to achieve sales growth exceeding 100 percent annually for many companies, including numerous B2B SaaS firms [14](https://www.hive.org/growthformula/). Because he is directly advising and producing Go To Market playbooks for SaaS founders which include the use of LinkedIn and content within the growth flywheel, Ryan serves as a strategic CEO level reference for this topic [15](https://www.linkedin.com/posts/ryanallis_step-by-step-how-id-build-sell-a-100m-activity-7426637703087292416-WxEc).
 - **Resource Links:**
   - LinkedIn: [https://www.linkedin.com/in/ryanallis/](https://www.linkedin.com/in/ryanallis/)
-- **Research Date Range:**
 
 ## 10. Will Aitken
 
@@ -97,7 +91,6 @@ He is widely recognized on LinkedIn for a content style characterized by memes a
 - **Resource Links:**
   - LinkedIn: [https://www.linkedin.com/in/justwillaitken/](https://www.linkedin.com/in/justwillaitken/)
   - YouTube: [https://www.youtube.com/@Sales_Feed/videos](https://www.youtube.com/@Sales_Feed/videos)
-- **Research Date Range:**
 
 ## References
 
