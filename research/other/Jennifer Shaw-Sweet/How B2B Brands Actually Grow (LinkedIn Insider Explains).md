@@ -1,6 +1,7 @@
 # How B2B Brands Actually Grow (LinkedIn Insider Explains)
 
 Source: [https://open.spotify.com/episode/4kvSzda3RkQpBNUyd2G10s?si=2MPONadkTlSTeYfLdA4h9Q](https://open.spotify.com/episode/4kvSzda3RkQpBNUyd2G10s?si=2MPONadkTlSTeYfLdA4h9Q)
+Platform: Spotify
 Channel: The Story Club
 Upload Date: 2026-01-30
 

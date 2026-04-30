@@ -50,6 +50,7 @@ As a leading authority in SEO and content led growth [6](https://saasnorth.com/n
 - **Resource Links:**
   - LinkedIn: [https://www.linkedin.com/in/neilkpatel/](https://www.linkedin.com/in/neilkpatel/)
   - YouTube: [https://www.youtube.com/@neilpatel/videos](https://www.youtube.com/@neilpatel/videos)
+  - Other: [https://neilpatel.com/blog](https://neilpatel.com/blog)
 - **Research Date Range:**
 
 ## 6. Nick Bennett
